@@ -3,7 +3,8 @@ Volatillity automatization on Windows OS for forensic analysis |
 Automatización de Volatility en Windows para análisis forense 
 Diseñado por: Juan Pablo Puentes P.
 
-Ubique el programa en el directorio de instalación de Volatility para Windows y ejecútelo.
+-Instrucciones de uso: Ubique el programa en el directorio de instalación de Volatility para Windows y ejecútelo.
+Revise la documentación para mayor información.
 
 AutoVolx86 V1.0
 MD5     E69CE54F77E99BE5235385EEF3C83646, 
